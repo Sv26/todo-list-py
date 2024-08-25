@@ -42,9 +42,9 @@ I leave you links to NodeJS and Python for installation:
 First of all download the project to start using it, do it from the terminal:
 
 ```shell
-$ git clone https://github.com/Remy349/todo-app-flask-reactjs.git
+$ https://github.com/Sv26/todo-list-py.git
 
-$ cd todo-app-flask-reactjs
+$ cd todo-app-flask
 ```
 
 If you did it correctly and there were no problems, you should see these folders in your terminal:
@@ -90,7 +90,7 @@ If you already have Python installed on your computer perform the following step
 
 1. Move to the `/backend` folder and run the following command to create a virtual development environment with Python:
 
-```shell
+``` shell
 # If it doesn't work this way try "python3", this will depend on how you installed Python on your computer
 $ python -m venv venv
 ```
@@ -224,4 +224,3 @@ If you make a `GET` request for all tasks you will see something like this:
   </tr>
 </table>
 
-### Developed by Santiago de Jesús Moraga Caldera - Remy349(GitHub)
